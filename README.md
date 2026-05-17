@@ -452,7 +452,7 @@ jupyter notebook
 Open:
 
 ```bash
-Diabetes_Prediction_End_to_End_ML_Project.ipynb
+Diabetes-Prediction-End-to-End-ML-Project.ipynb
 ```
 
 ---
